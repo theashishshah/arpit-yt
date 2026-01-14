@@ -83,3 +83,7 @@ Hacky solutions existed:
 polling:
 long-polling
 They suck.
+
+
+
+To communicate using softwares we have options like tcp handshake which is two way.
