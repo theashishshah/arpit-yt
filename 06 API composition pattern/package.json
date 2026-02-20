@@ -1,0 +1,14 @@
+{
+  "name": "api-composition-demo",
+  "version": "1.0.0",
+  "description": "Simple Express server demonstrating API composition pattern",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  }
+}
