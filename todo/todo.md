@@ -4,3 +4,4 @@
 4. Learn about serialization and deserialization, and why do we require it? what will happen, If I don't do these.
 5. Learn about LRU, MRU, and all sixs
 06. Learn about databases and topology
+7. Do master in SQL database and distributed system, networking, Operating System, Docker and Kubernetes
